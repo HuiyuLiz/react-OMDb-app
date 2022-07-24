@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "editor.formatOnSave": false,
+    "eslint.enable": true,
+    "eslint.options": {
+      "extensions": [".js", ".ts", ".tsx"]
+    },
+    "eslint.validate": ["javascript", "typescript", "typescriptreact"],
+}
